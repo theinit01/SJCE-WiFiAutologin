@@ -6,6 +6,8 @@
 // @author       theinit01
 // @match        http://10.24.1.1:8090/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=1.1
+// @updateURL    https://github.com/theinit01/SJCE-WiFiAutologin/blob/main/sjce-wifi-autologin.user.js
+// @downloadURL  https://github.com/theinit01/SJCE-WiFiAutologin/blob/main/sjce-wifi-autologin.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -13,8 +15,8 @@
     'use strict';
 
     // Configuration
-    var username = "uu214429"; // Default username
-    var password = "bhajyo28"; // Default password
+    var username = "your-username"; // Default username
+    var password = "your-password"; // Default password
 
     // Logging function
     function log(message) {
