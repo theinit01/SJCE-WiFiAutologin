@@ -30,6 +30,7 @@ This repository contains a userscript designed to auto login the SJCE WiFi login
 5. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
+NOTE: For added functionality, set your browser's default startup page to http://10.24.1.1:8090
 ## Contribution
 
 If you have any suggestions, bug reports, or want to contribute to this userscript, feel free to create issues or pull requests in this GitHub repository.
