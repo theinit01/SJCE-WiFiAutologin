@@ -8,10 +8,10 @@ This repository contains a userscript designed to auto login the SJCE WiFi login
 
 1. **Install Tampermonkey**:
    If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
-   - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo){:target="_blank"}
-   - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-   - [Tampermonkey for Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-   - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
+   - <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey for Chrome</a>
+   - <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/" target="_blank">Tampermonkey for Firefox</a>
+   - <a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd" target="_blank">Tampermonkey for Edge</a>
+   - <a href="https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/" target="_blank">Tampermonkey for Opera/OperaGX</a>
 
 2. **Install the Script**:
    [Click Here and Press Install](sjce-wifi-autologin.user.js?raw=True).
