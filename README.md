@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a userscript designed to remove the annoying "Ad blocker is not allowed on Youtube" popup. Follow the instructions below to get started. We also have an undetected way of skipping ads if you get blocked from the video player.
+This repository contains a userscript designed to auto login the SJCE WiFi login page whenever opened. Follow the instructions below to get started.
 
 ## Installation
 
@@ -19,8 +19,10 @@ This repository contains a userscript designed to remove the annoying "Ad blocke
 3. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
-4. **Disable your adblocker**:
-   Whitelist YouTube on any Chrome extensions that block ads or any third-party things that disable ads. Don't worry; our script removes ads on YouTube.
+## Contribution
 
+If you have any suggestions, bug reports, or want to contribute to this userscript, feel free to create issues or pull requests in this GitHub repository.
 
-Note: This also allows you to watch videos when your video player is banned from using an adblock.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
