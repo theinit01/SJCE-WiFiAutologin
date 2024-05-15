@@ -1,5 +1,9 @@
 # SJCE-WiFiAutologin
 
+<p align="center">
+<img src="https://github.com/theinit01/SJCE-WiFiAutologin/blob/main/thumbnail.png" alt="picture" width="500">
+</p>
+
 ## Introduction
 
 This repository contains a userscript designed to auto login the SJCE WiFi login page whenever opened. Follow the instructions below to get started.
