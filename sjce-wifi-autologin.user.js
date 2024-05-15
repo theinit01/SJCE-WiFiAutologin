@@ -5,7 +5,7 @@
 // @description  Automatically logins when the SJCE wifi page is loaded
 // @author       theinit01
 // @match        http://10.24.1.1:8090/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=1.1
+// @icon         https://s2.googleusercontent.com/s2/favicons?domain=leavemealone.app&sz=32
 // @updateURL    https://github.com/theinit01/SJCE-WiFiAutologin/blob/main/sjce-wifi-autologin.user.js
 // @downloadURL  https://github.com/theinit01/SJCE-WiFiAutologin/blob/main/sjce-wifi-autologin.user.js
 // @grant        none
