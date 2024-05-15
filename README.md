@@ -20,7 +20,14 @@ This repository contains a userscript designed to auto login the SJCE WiFi login
 2. **Install the Script**:
    [Click Here and Press Install](sjce-wifi-autologin.user.js?raw=True).
 
-3. **Enable the Script**:
+3. **Add your credentials in the installed script**:
+   Go to tapermonkey, press dashboard select the script and update your credentials
+   ```javascript
+   var username = "your-username";
+   var password = "your-password";
+   ```
+
+5. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
 ## Contribution
