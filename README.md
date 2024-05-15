@@ -26,8 +26,9 @@ This repository contains a userscript designed to auto login the SJCE WiFi login
    var username = "your-username";
    var password = "your-password";
    ```
+   NOTE: Your credentials are stored in your personal device only.
 
-5. **Enable the Script**:
+4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
 NOTE: For added functionality, set your browser's default startup page to http://10.24.1.1:8090
