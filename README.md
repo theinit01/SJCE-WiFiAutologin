@@ -14,7 +14,7 @@ This repository contains a userscript designed to remove the annoying "Ad blocke
    - [Tampermonkey for Opera/OperaGX](https://addons.opera.com/en-gb/extensions/details/tampermonkey-beta/)
 
 2. **Install the Script**:
-   [Click Here and Press Install](Youtube-Ad-blocker-Reminder-Remover.user.js?raw=True).
+   [Click Here and Press Install](sjce-wifi-autologin.user.js?raw=True).
 
 3. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
