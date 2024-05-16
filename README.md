@@ -6,8 +6,8 @@
 
 ## Introduction
 
-This repository contains a userscript designed to auto login the SJCE WiFi login page whenever opened. Follow the instructions below to get started.
-NOTE: For more enhanced experience, set your browser's default startup page to http://10.24.1.1:8090
+This repository contains a userscript designed to auto login the SJCE WiFi login page whenever opened. Follow the instructions below to get started.<br>
+**NOTE**: For more enhanced experience, set your browser's default startup page to http://10.24.1.1:8090
 
 ## Installation
 
